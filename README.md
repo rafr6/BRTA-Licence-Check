@@ -1,0 +1,1 @@
+# BRTA-Licence-Check
